@@ -1,0 +1,13 @@
+The Roots and Error for-
+initial guess: 2.000000
+Tolerence value: 0.000001
+
+
+iteraton	Root			Error
+1			2.250000		0.250000
+2			2.224280		0.025720
+3			2.223980		0.000300
+4			2.223980		0.000000
+
+The procedure was successful
+Ans: 2.223980
